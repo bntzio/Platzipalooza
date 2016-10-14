@@ -85,3 +85,11 @@ h1, h2, h3, h4, h5, h6, button {
   display: inline-block;
   float: none;
 }
+
+#lineup-container .orbit-container {
+  margin-bottom: 1em;
+}
+
+#lineup-container .column:nth-child(odd) figcaption {
+  text-align: right;
+}
